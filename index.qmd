@@ -1,11 +1,26 @@
 ---
-title: "ClaraJordan"
+title: "Clara Jordan"
+image: Headshot.JPG
+about:
+  template: jolla
+  image-shape: rounded
+  links: 
+    - text: GitHub
+      href: https://github.com/ClaraJordan
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/claragjordan
+    - text: Email
+      href: mailto:2023cjordan@gmail.com
 ---
 
-This is a Quarto website.
+I am a sustainability scientist specialized in carbon management. I am passionate about the intersections between community resilience, global sustainability, and greenhouse gas emissions. My expertise lies in ecosystem mechanisms, sustainability science, and the quantification and mitigation of greenhouse gas emissions in project and corporate settings. My technical skills revolve around greenhouse gas inventory, greenhouse gas accounting, and life cycle assessment for sustainability.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Currently I am pursuing a master of professional science in ecosystem science and sustainability and a graduate certificate in carbon management. I am eager to apply my skills towards making a tangible impact in global sustainable development through greenhouse gas management.
 
-```{r}
-1 + 1
-```
+When I'm not thinking about climate I enjoy reading, spending time outdoors, and adventuring.
+
++---------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| ![Rock climbing in Garden of the Gods, Colorado Springs, Colorado.](Climb.jpeg) | ![Skydiving by Fort Morgan Municipal Airport, Colorado.](Adventure.JPG)     |
+|                                                                                 |                                                                             |
+|                                                                                 | ![Helping with bird tagging on Fort Carson Army Base, Colorado.](Bird.jpeg) |
++---------------------------------------------------------------------------------+-----------------------------------------------------------------------------+

@@ -1,0 +1,19 @@
+---
+title: "Project Samples"
+author: Clara Jordan
+
+format: 
+  html:
+    toc: true
+    toc-location: right
+---
+
+## **Project Samples:**
+
+Click [here](https://docs.google.com/document/d/1yGdpm9JcufXdbTwIzJpY3-WB8bNbQSav/edit?usp=sharing&ouid=105759919996886207357&rtpof=true&sd=true) to read a sample of my writing in a greenhouse inventory and mitigation project report I developed for a graduate class at Colorado State University which analyzes Oregon's electricity generation emissions for a 23 year period!
+
+Click [here](https://docs.google.com/document/d/1jk5ZcCEzkwrgQ9_ESnWfn49q-qKoDGeCRFHMFowxtCA/edit?usp=sharing) to read a sample of my writing in a comparative life cycle assessment between cotton and paper table napkins, and to find out which is more sustainable!
+
+Click [here](https://docs.google.com/presentation/d/1t1Hu99gVyuktPl8gPz0KncbP_KPyMTF3Sdp4wVmUpVk/edit?usp=sharing) to look through a visual explanation of how the greenhouse effect works through a series of slides and handmade drawings!
+
+Click [here](https://drive.google.com/file/d/1d5YkTLPZDKKi1kNyeQYs6DaOsuf6Y5pd/view?usp=sharing) to take a look at a series of informational social media slides I created for Environment for the Americas to explain the relationship between monarch butterflies and milkweed!

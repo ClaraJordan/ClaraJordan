@@ -1,0 +1,117 @@
+---
+title: "Resume"
+author: Clara Jordan
+
+format: 
+  html:
+    toc: true
+    toc-location: right
+---
+
+## **Professional Summary**
+
+-   **ENVIRONMENTAL SCIENTIST** specialized in climate and ecosystem science, greenhouse gas inventory and accounting, and implementation of sustainable strategies to preserve human and wildlife well-being. Dedicated to advancing environmental risk management and global equitable development through corporate sustainability. Skilled in project management, data analysis, and science communication, with practical field, lab, and interagency collaboration experience.
+
+-   Technical Toolkit:  
+
+    -   *Data analysis:*  R, OpenLCA, DAYCENT, ArcGIS Pro, and Associates Certificates in Microsoft Word and Excel (2019 Microsoft Office).
+
+    -   *Communication:* Scientific Writing, Public Communication in Natural Resources, Visual Literacy, and Leadership. Certified as a Project Learning Tree K-8 Environmental Educator. 
+
+    -   *Sustainability Analysis*: Life Cycle Assessment for Sustainability (2006 ISO 14040 and 14044 based), Greenhouse Gas Inventories (IPCC 2006 Guideline-based), Scope 1, 2, and 3 Greenhouse Gas Accounting Strategies.  
+
+    -   *Field Sampling:* Air Sampling with SKC Biosamplers, Standardized Wildlife Protocols, and Habitat Suitability Analysis.
+
+------------------------------------------------------------------------
+
+## **Project Management & Research Experience**
+
+-   *Monarch Butterfly Conservation and Environmental Education* ᐧ Environment for the Americas ᐧ Fort Carson Army Base, Colorado Springs, CO ᐧ Jul-Aug 2025
+
+    -   Conducted over 30 intensive and systematic monarch butterfly and bumble bee surveys across military landscapes, contributing high-quality data to a nationwide dataset.
+
+    -   Led independent planning of field sampling schedule, consistently meeting sampling frequency targets ahead of deadlines.
+
+    -   Collaborated with Department of Defense (DoD) natural resource managers, U.S. Fish and Wildlife biologists, non-profit partners, and fellow interns, reporting findings to the U.S. Forest Service and DoD to inform pollinator conservation planning.
+
+    -   Engaged the military community and 10,000+ Environment for the Americas followers in pollinator conservation and monarch biology by creating four blog posts and an infographic that translated complex science into accessible, engaging content.
+
+-   *Tribal Engagement to Develop Culturally Significant Species Monitoring Protocols* ᐧ Colorado Natural Heritage Program ᐧ Fort Collins, CO ᐧ Jan-May 2025
+
+    -   Contributed to the Statewide Natural Heritage Survey project during a 16-week applied research capstone to develop pathways for merging Indigenous and Western frameworks on identifying and monitoring species in Colorado conservation efforts.
+
+    -   Managed the development of project deliverables, including a literature review, executive summary, and presentation tailored for stakeholder use.
+
+    -   Presented findings to the Colorado Natural Heritage Program and the Western Natural Heritage Program network, supporting regional knowledge-sharing and policy dialogue.
+
+-   *Aerobiology Research* ᐧ Colorado State University OneHealth Institute ᐧ Fort Collins, CO ᐧ May-Aug 2024
+
+    -   Contributed to a National Science Foundation-funded research project on spatial taxa variation in aerial microbes from inception to completion, assisting with study design, field sampling, data analysis, and presentation of findings.
+
+    -   Coordinated and managed multi-site field and lab operations, ensuring timely completion of sampling and data processing benchmarks across project phases.
+
+    -   Synthesized and presented findings at a research conference, demonstrating quantitative conclusions on alpha/beta diversity, bacterial isolate culturing, and soil functional potential across urban and grassland ecosystems.
+
+------------------------------------------------------------------------
+
+## **Sustainability Analysis Experience**
+
+-   *Greenhouse Gas Inventory Preparation & Analysis* ᐧ Colorado State University ᐧ Fort Collins, CO ᐧ Jan-May 2025
+
+    -   Applied IPCC Guideline-based Tier 1, Tier 2, and Tier 3 emissions estimate methods in AFOLU, energy, and transport sectors in scenario-based projects. 
+
+    -   Authored a comprehensive greenhouse gas inventory to analyze 23-year-long trends in electricity generation emissions in Oregon, producing emissions projections and mitigation scenarios with 95% confidence intervals utilizing Tier 1 IPCC methods. 
+
+    -   Developed mastery in several tools for conducting greenhouse gas inventories, including analysis in ALU and DAYCENT, as well as developing customized R scripts. 
+
+-   *Life Cycle Assessment for Sustainability* ᐧ Colorado State University ᐧ Fort Collins, CO ᐧ Aug-Dec 2024
+
+    -   Created a life cycle inventory using USEEIO v2.0 software to draw sustainability conclusions within the 2012 economy. 
+
+    -   Developed a Cradle to Gate life cycle assessment conforming to 2006 ISO 14040 and 14044 standards utilizing OpenLCA software. 
+
+    -   Performed uncertainty and significance analyses to interpret life cycle assessment results, identifying key flows and impact categories driving sustainability outcomes. 
+
+------------------------------------------------------------------------
+
+## **Environmental Leadership & Cross-Functional Collaboration Experience**
+
+-   *Sustainability, Research, & Innovation Congress 2025* ᐧ SRI ᐧ Chicago, IL ᐧ Jun 2025
+
+    -   Collaborated with the international science community to explore and propose pathways toward global sustainability solutions. 
+
+    -   Strengthened environmental policy development skills in interactive professional development sessions. 
+
+    -   Contributed to a network of diverse sustainability practitioners working on innovative, Scross-disciplinary problem-solving.
+
+-   *Study Abroad: Social & Environmental Justice in Ecuador* ᐧ SIT Abroad ᐧ Quito and Mindo, Ecuador ᐧ Aug 2023
+
+    -   Investigated Ecuador’s political and environmental climate and history through lectures, hands-on activities, and research.
+
+    -   Adapted to a rapidly changing political landscape and pivoted project focus to align with program student safety objectives.
+
+    -   Engaged in environmental justice via education and reciprocity projects.
+
+    -   Designed and presented a research project on Ecuadorian native plant species to a group of 30+ peers, highlighting cultural connections between biodiversity, food systems, and community well-being.
+
+-   *Coursework*
+
+    -   Promoting Geoscience Research, Education, and Success (PROGRESS) Peer Mentoring Program and Workshop in October 2023
+
+    -   Youth, Creativity, Innovation & Sustainable Leadership (YCISL) Innovators Toolkit Workshop through Stanford University in February 2021
+
+-   *Model United Nations Conferences*
+
+    -   Dar Es Salaam MUN 2021 (DARMUN X) as a delegate on the DISC council debating on international security in 2021
+
+    -   Zambia MUN (ZAMMUN) 2020 as a contributing organizer in 2020
+
+    -   WIMUN Geneva 2019 as a delegate on the ECOSOC council debating on sustainable development, received Diplomacy Award in 2019
+
+------------------------------------------------------------------------
+
+## **Education**
+
+-   *Master of Professional Science*, Ecosystem Science and Sustainability, 4.0 GPA (Aug 2026)
+-   *Graduate Certificate*, Carbon Management (Dec 2025)
+-   *Bachelor of Science*, Ecosystem Science and Sustainability, 4.0 GPA, *Summa Cum Laude* (May 2025)
